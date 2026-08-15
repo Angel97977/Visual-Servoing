@@ -1,0 +1,18 @@
+# ROS / colcon
+build/
+install/
+log/
+*.db
+authors
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
